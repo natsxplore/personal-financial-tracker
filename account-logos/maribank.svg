@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 48" role="img" aria-label="MariBank">
-  <rect x="6" y="10" width="28" height="28" rx="8" fill="#ffffff"/>
-  <path fill="#00A3E0" d="M14 18h12v3H17v9h-3V18z"/>
+  <circle cx="20" cy="24" r="14" fill="#ffffff"/>
+  <text x="20" y="29" fill="#F26522" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800" text-anchor="middle">M</text>
   <text x="44" y="31" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700">MariBank</text>
 </svg>
