@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 48" role="img" aria-label="Maya">
+  <circle cx="24" cy="24" r="16" fill="#ffffff"/>
+  <circle cx="24" cy="24" r="6" fill="#00B14F"/>
+  <text x="48" y="31" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700">maya</text>
+</svg>

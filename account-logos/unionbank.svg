@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 48" role="img" aria-label="UnionBank">
+  <rect width="190" height="48" fill="none"/>
+  <circle cx="24" cy="24" r="16" fill="#ffffff"/>
+  <path fill="#FF8000" d="M24 14l8 14H16l8-14z"/>
+  <text x="48" y="31" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">UnionBank</text>
+</svg>

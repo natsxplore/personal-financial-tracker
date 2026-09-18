@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1586 1000" role="img" aria-label="Cash card art">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="100%" stop-color="#C2410C"/>
+    </linearGradient>
+    <pattern id="stripes" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(135)">
+      <rect width="16" height="16" fill="transparent"/>
+      <line x1="0" y1="0" x2="0" y2="16" stroke="rgba(255,255,255,0.06)" stroke-width="4"/>
+    </pattern>
+  </defs>
+  <rect width="1586" height="1000" rx="48" fill="url(#bg)"/>
+  <rect width="1586" height="1000" rx="48" fill="url(#stripes)"/>
+  <circle cx="1400" cy="120" r="200" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="180" cy="880" r="240" fill="rgba(0,0,0,0.12)"/>
+  
+  
+  <text x="1450" y="160" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="700" text-anchor="end">Cash</text>
+  
+  <text x="100" y="780" fill="rgba(255,255,255,0.75)" font-family="Arial,sans-serif" font-size="36" font-weight="600" letter-spacing="8">ACCOUNT CARD</text>
+</svg>

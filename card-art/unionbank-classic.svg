@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1586 1000" role="img" aria-label="UnionBank card art">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF8000"/>
+      <stop offset="100%" stop-color="#B85600"/>
+    </linearGradient>
+    <pattern id="stripes" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(135)">
+      <rect width="16" height="16" fill="transparent"/>
+      <line x1="0" y1="0" x2="0" y2="16" stroke="rgba(255,255,255,0.06)" stroke-width="4"/>
+    </pattern>
+  </defs>
+  <rect width="1586" height="1000" rx="48" fill="url(#bg)"/>
+  <rect width="1586" height="1000" rx="48" fill="url(#stripes)"/>
+  <circle cx="1400" cy="120" r="200" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="180" cy="880" r="240" fill="rgba(0,0,0,0.12)"/>
+  
+  <g transform="translate(100,180)">
+    <rect width="120" height="96" rx="12" fill="#E8C547" stroke="#C9A227" stroke-width="3"/>
+    <line x1="12" y1="32" x2="108" y2="32" stroke="#C9A227" stroke-width="2" opacity="0.5"/>
+    <line x1="12" y1="64" x2="108" y2="64" stroke="#C9A227" stroke-width="2" opacity="0.5"/>
+    <line x1="60" y1="12" x2="60" y2="84" stroke="#C9A227" stroke-width="2" opacity="0.5"/>
+  </g>
+  
+  <g transform="translate(260,200)" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="8" stroke-linecap="round">
+    <path d="M0 40 Q20 20 40 40"/>
+    <path d="M20 40 Q45 10 70 40"/>
+    <path d="M40 40 Q70 0 100 40"/>
+  </g>
+  <text x="1450" y="160" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="88" font-weight="700" text-anchor="end">UnionBank</text>
+  <text x="1450" y="920" fill="#ffffff" font-family="Arial,sans-serif" font-size="72" font-weight="700" font-style="italic" text-anchor="end">VISA</text>
+  <text x="100" y="780" fill="rgba(255,255,255,0.75)" font-family="Arial,sans-serif" font-size="36" font-weight="600" letter-spacing="8">ACCOUNT CARD</text>
+</svg>
